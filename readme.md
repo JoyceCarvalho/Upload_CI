@@ -1,6 +1,4 @@
-##############
-  Exemplo
-##############
+# Exemplo
 
 Este sistema é um exemplo de upload de imagens com o framework codeigniter.
 
